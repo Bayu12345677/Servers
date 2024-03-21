@@ -1,5 +1,5 @@
 sc="https://moneyblink.com/ELhn"
-sc1="https://moneyblink.com/QDEV8w5Sd8Q"
+sc1="https://moneyblink.com/XRwRqY9338"
 berita="update hanya di channel pejuang kentang"
 news="menu baru, tampilan baru, penambahan otp call"
 versi_s="1.3.1"
