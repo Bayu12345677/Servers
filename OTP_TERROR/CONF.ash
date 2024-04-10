@@ -1,4 +1,4 @@
-sc="https://moneyblink.com/ELhn"
+sc="https://moneyblink.com/4dU1haCqVrT"
 sc1="https://moneyblink.com/XRwRqY9338"
 berita="update hanya di channel pejuang kentang"
 news="menu baru, tampilan baru, penambahan otp call"
