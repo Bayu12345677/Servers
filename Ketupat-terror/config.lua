@@ -1,5 +1,5 @@
 ## server ⚈
-status_apk="maintance"
+status_apk="online"
 versi_new="1.0.1"
 versi_old="1.0.0"
 ## Config </>
